@@ -1,0 +1,14 @@
+   [
+     {
+       "name": "Butterfly.ild",
+       "description": "A beautiful butterfly pattern",
+       "author": "Your Name",
+       "previewUrl": "butterfly.png"
+     },
+     {
+       "name": "Fireworks.ild",
+       "description": "Colorful fireworks display",
+       "author": "Your Name",
+       "previewUrl": "fireworks.png"
+     }
+   ]
