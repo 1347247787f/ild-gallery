@@ -1,14 +1,520 @@
-   [
-     {
-       "name": "NULL.ild",
-       "description": "A beautiful butterfly pattern",
-       "author": "Your Name",
-       "previewUrl": "NULL.png"
-     },
-     {
-       "name": "Fireworks.ild",
-       "description": "Colorful fireworks display",
-       "author": "Your Name",
-       "previewUrl": "fireworks.png"
-     }
-   ]
+{
+  "files": [
+    {
+      "name": "count_10_1.ild",
+      "description": "数字计数动画",
+      "author": "Local Collection",
+      "previewUrl": "count_10_1.gif"
+    },
+    {
+      "name": "EAGLE2.ild",
+      "description": "鹰的动画",
+      "author": "Local Collection",
+      "previewUrl": "EAGLE2.gif"
+    },
+    {
+      "name": "d2.ild",
+      "description": "简单动画",
+      "author": "Local Collection",
+      "previewUrl": "d2.gif"
+    },
+    {
+      "name": "C2.ild",
+      "description": "字母C动画",
+      "author": "Local Collection",
+      "previewUrl": "C2.gif"
+    },
+    {
+      "name": "C1.ild",
+      "description": "字母C动画变体",
+      "author": "Local Collection",
+      "previewUrl": "C1.gif"
+    },
+    {
+      "name": "worm.ild",
+      "description": "蠕虫动画",
+      "author": "Local Collection",
+      "previewUrl": "worm.gif"
+    },
+    {
+      "name": "donkey.ild",
+      "description": "驴子动画",
+      "author": "Local Collection",
+      "previewUrl": "donkey.gif"
+    },
+    {
+      "name": "1.ild",
+      "description": "数字1动画",
+      "author": "Local Collection",
+      "previewUrl": "1.gif"
+    },
+    {
+      "name": "duck.ild",
+      "description": "鸭子动画",
+      "author": "Local Collection",
+      "previewUrl": "duck.gif"
+    },
+    {
+      "name": "people01.ild",
+      "description": "人物动画1",
+      "author": "Local Collection",
+      "previewUrl": "people01.gif"
+    },
+    {
+      "name": "Cartoon14.ild",
+      "description": "卡通动画14",
+      "author": "Local Collection",
+      "previewUrl": "Cartoon14.gif"
+    },
+    {
+      "name": "Cartoon10.ild",
+      "description": "卡通动画10",
+      "author": "Local Collection",
+      "previewUrl": "Cartoon10.gif"
+    },
+    {
+      "name": "people04.ild",
+      "description": "人物动画4",
+      "author": "Local Collection",
+      "previewUrl": "people04.gif"
+    },
+    {
+      "name": "animal25.ild",
+      "description": "动物动画25",
+      "author": "Local Collection",
+      "previewUrl": "animal25.gif"
+    },
+    {
+      "name": "ildam27.ild",
+      "description": "激光动画27",
+      "author": "Local Collection",
+      "previewUrl": "ildam27.gif"
+    },
+    {
+      "name": "ildam38.ild",
+      "description": "激光动画38",
+      "author": "Local Collection",
+      "previewUrl": "ildam38.gif"
+    },
+    {
+      "name": "ildam39.ild",
+      "description": "激光动画39",
+      "author": "Local Collection",
+      "previewUrl": "ildam39.gif"
+    },
+    {
+      "name": "ildags28.ild",
+      "description": "激光动画28",
+      "author": "Local Collection",
+      "previewUrl": "ildags28.gif"
+    },
+    {
+      "name": "ildam12.ild",
+      "description": "激光动画12",
+      "author": "Local Collection",
+      "previewUrl": "ildam12.gif"
+    },
+    {
+      "name": "ildam2.ild",
+      "description": "激光动画2",
+      "author": "Local Collection",
+      "previewUrl": "ildam2.gif"
+    },
+    {
+      "name": "ildam4.ild",
+      "description": "激光动画4",
+      "author": "Local Collection",
+      "previewUrl": "ildam4.gif"
+    },
+    {
+      "name": "ildags5.ild",
+      "description": "激光动画5",
+      "author": "Local Collection",
+      "previewUrl": "ildags5.gif"
+    },
+    {
+      "name": "ildags1.ild",
+      "description": "激光动画1",
+      "author": "Local Collection",
+      "previewUrl": "ildags1.gif"
+    },
+    {
+      "name": "Aurora11.ild",
+      "description": "极光动画11",
+      "author": "Local Collection",
+      "previewUrl": "Aurora11.gif"
+    },
+    {
+      "name": "747-01.ild",
+      "description": "飞机动画",
+      "author": "Local Collection",
+      "previewUrl": "747-01.gif"
+    },
+    {
+      "name": "geoShowB26.ild",
+      "description": "几何动画B26",
+      "author": "Local Collection",
+      "previewUrl": "geoShowB (26).gif"
+    },
+    {
+      "name": "geoShowB17.ild",
+      "description": "几何动画B17",
+      "author": "Local Collection",
+      "previewUrl": "geoShowB (17).gif"
+    },
+    {
+      "name": "geoShowB23.ild",
+      "description": "几何动画B23",
+      "author": "Local Collection",
+      "previewUrl": "geoShowB (23).gif"
+    },
+    {
+      "name": "geoShow65.ild",
+      "description": "几何动画65",
+      "author": "Local Collection",
+      "previewUrl": "geoShow (65).gif"
+    },
+    {
+      "name": "geoShow30.ild",
+      "description": "几何动画30",
+      "author": "Local Collection",
+      "previewUrl": "geoShow (30).gif"
+    },
+    {
+      "name": "geoShow29.ild",
+      "description": "几何动画29",
+      "author": "Local Collection",
+      "previewUrl": "geoShow (29).gif"
+    },
+    {
+      "name": "geoShow22.ild",
+      "description": "几何动画22",
+      "author": "Local Collection",
+      "previewUrl": "geoShow (22).gif"
+    },
+    {
+      "name": "geoShow23.ild",
+      "description": "几何动画23",
+      "author": "Local Collection",
+      "previewUrl": "geoShow (23).gif"
+    },
+    {
+      "name": "geoShow24.ild",
+      "description": "几何动画24",
+      "author": "Local Collection",
+      "previewUrl": "geoShow (24).gif"
+    },
+    {
+      "name": "geoShow11.ild",
+      "description": "几何动画11",
+      "author": "Local Collection",
+      "previewUrl": "geoShow (11).gif"
+    },
+    {
+      "name": "geoShow5.ild",
+      "description": "几何动画5",
+      "author": "Local Collection",
+      "previewUrl": "geoShow (5).gif"
+    },
+    {
+      "name": "geoShow2.ild",
+      "description": "几何动画2",
+      "author": "Local Collection",
+      "previewUrl": "geoShow (2).gif"
+    },
+    {
+      "name": "geoShow3.ild",
+      "description": "几何动画3",
+      "author": "Local Collection",
+      "previewUrl": "geoShow (3).gif"
+    },
+    {
+      "name": "Aurora20.ild",
+      "description": "极光动画20",
+      "author": "Local Collection",
+      "previewUrl": "Aurora20.gif"
+    },
+    {
+      "name": "DB2-1.ild",
+      "description": "数据库动画",
+      "author": "Local Collection",
+      "previewUrl": "DB2-1.gif"
+    },
+    {
+      "name": "Cartoon20.ild",
+      "description": "卡通动画20",
+      "author": "Local Collection",
+      "previewUrl": "Cartoon20.gif"
+    },
+    {
+      "name": "Cartoon15.ild",
+      "description": "卡通动画15",
+      "author": "Local Collection",
+      "previewUrl": "Cartoon15.gif"
+    },
+    {
+      "name": "Cartoon12.ild",
+      "description": "卡通动画12",
+      "author": "Local Collection",
+      "previewUrl": "Cartoon12.gif"
+    },
+    {
+      "name": "Cartoon09.ild",
+      "description": "卡通动画09",
+      "author": "Local Collection",
+      "previewUrl": "Cartoon09.gif"
+    },
+    {
+      "name": "Cartoon03.ild",
+      "description": "卡通动画03",
+      "author": "Local Collection",
+      "previewUrl": "Cartoon03.gif"
+    },
+    {
+      "name": "Cartoon01.ild",
+      "description": "卡通动画01",
+      "author": "Local Collection",
+      "previewUrl": "Cartoon01.gif"
+    },
+    {
+      "name": "car13.ild",
+      "description": "汽车动画13",
+      "author": "Local Collection",
+      "previewUrl": "car (13).gif"
+    },
+    {
+      "name": "car10.ild",
+      "description": "汽车动画10",
+      "author": "Local Collection",
+      "previewUrl": "car (10).gif"
+    },
+    {
+      "name": "car9.ild",
+      "description": "汽车动画9",
+      "author": "Local Collection",
+      "previewUrl": "car (9).gif"
+    },
+    {
+      "name": "car6.ild",
+      "description": "汽车动画6",
+      "author": "Local Collection",
+      "previewUrl": "car (6).gif"
+    },
+    {
+      "name": "car2.ild",
+      "description": "汽车动画2",
+      "author": "Local Collection",
+      "previewUrl": "car (2).gif"
+    },
+    {
+      "name": "Aurora70.ild",
+      "description": "极光动画70",
+      "author": "Local Collection",
+      "previewUrl": "Aurora70.gif"
+    },
+    {
+      "name": "Aurora35.ild",
+      "description": "极光动画35",
+      "author": "Local Collection",
+      "previewUrl": "Aurora35.gif"
+    },
+    {
+      "name": "WIWil.ild",
+      "description": "WIWil动画",
+      "author": "Local Collection",
+      "previewUrl": "WIWil.gif"
+    },
+    {
+      "name": "earthrot.ild",
+      "description": "地球旋转动画",
+      "author": "Local Collection",
+      "previewUrl": "earthrot.gif"
+    },
+    {
+      "name": "DOLLARS.ild",
+      "description": "美元符号动画",
+      "author": "Local Collection",
+      "previewUrl": "DOLLARS.gif"
+    },
+    {
+      "name": "CigSpin120.ild",
+      "description": "香烟旋转动画",
+      "author": "Local Collection",
+      "previewUrl": "CigSpin120.gif"
+    },
+    {
+      "name": "boom.ild",
+      "description": "爆炸动画",
+      "author": "Local Collection",
+      "previewUrl": "boom.gif"
+    },
+    {
+      "name": "boot.ild",
+      "description": "靴子动画",
+      "author": "Local Collection",
+      "previewUrl": "boot.gif"
+    },
+    {
+      "name": "Aurora14.ild",
+      "description": "极光动画14",
+      "author": "Local Collection",
+      "previewUrl": "Aurora14.gif"
+    },
+    {
+      "name": "747.ild",
+      "description": "飞机动画",
+      "author": "Local Collection",
+      "previewUrl": "747.gif"
+    },
+    {
+      "name": "WUERFEL.ild",
+      "description": "骰子动画",
+      "author": "Local Collection",
+      "previewUrl": "WUERFEL.gif"
+    },
+    {
+      "name": "RAIN1.ild",
+      "description": "雨滴动画",
+      "author": "Local Collection",
+      "previewUrl": "RAIN1.gif"
+    },
+    {
+      "name": "loveheart.ild",
+      "description": "爱心动画",
+      "author": "Local Collection",
+      "previewUrl": "loveheart.gif"
+    },
+    {
+      "name": "FWAVES.ild",
+      "description": "波浪动画",
+      "author": "Local Collection",
+      "previewUrl": "FWAVES.gif"
+    },
+    {
+      "name": "FlugPyramiden.ild",
+      "description": "金字塔飞行动画",
+      "author": "Local Collection",
+      "previewUrl": "Flug durch Pyramiden.gif"
+    },
+    {
+      "name": "bubbles.ild",
+      "description": "气泡动画",
+      "author": "Local Collection",
+      "previewUrl": "bubbles.gif"
+    },
+    {
+      "name": "Aurora91.ild",
+      "description": "极光动画91",
+      "author": "Local Collection",
+      "previewUrl": "Aurora91.gif"
+    },
+    {
+      "name": "Aurora90.ild",
+      "description": "极光动画90",
+      "author": "Local Collection",
+      "previewUrl": "Aurora90.gif"
+    },
+    {
+      "name": "Aurora98.ild",
+      "description": "极光动画98",
+      "author": "Local Collection",
+      "previewUrl": "Aurora98.gif"
+    },
+    {
+      "name": "Aurora96.ild",
+      "description": "极光动画96",
+      "author": "Local Collection",
+      "previewUrl": "Aurora96.gif"
+    },
+    {
+      "name": "Horse.ild",
+      "description": "马动画",
+      "author": "Local Collection",
+      "previewUrl": "Horse.gif"
+    },
+    {
+      "name": "animal34.ild",
+      "description": "动物动画34",
+      "author": "Local Collection",
+      "previewUrl": "animal34.gif"
+    },
+    {
+      "name": "animal29.ild",
+      "description": "动物动画29",
+      "author": "Local Collection",
+      "previewUrl": "animal29.gif"
+    },
+    {
+      "name": "animal28.ild",
+      "description": "动物动画28",
+      "author": "Local Collection",
+      "previewUrl": "animal28.gif"
+    },
+    {
+      "name": "animal27.ild",
+      "description": "动物动画27",
+      "author": "Local Collection",
+      "previewUrl": "animal27.gif"
+    },
+    {
+      "name": "animal23.ild",
+      "description": "动物动画23",
+      "author": "Local Collection",
+      "previewUrl": "animal23.gif"
+    },
+    {
+      "name": "animal22.ild",
+      "description": "动物动画22",
+      "author": "Local Collection",
+      "previewUrl": "animal22.gif"
+    },
+    {
+      "name": "animal16.ild",
+      "description": "动物动画16",
+      "author": "Local Collection",
+      "previewUrl": "animal16.gif"
+    },
+    {
+      "name": "animal15.ild",
+      "description": "动物动画15",
+      "author": "Local Collection",
+      "previewUrl": "animal15.gif"
+    },
+    {
+      "name": "animal14.ild",
+      "description": "动物动画14",
+      "author": "Local Collection",
+      "previewUrl": "animal14.gif"
+    },
+    {
+      "name": "animal11.ild",
+      "description": "动物动画11",
+      "author": "Local Collection",
+      "previewUrl": "animal11.gif"
+    },
+    {
+      "name": "animal07.ild",
+      "description": "动物动画07",
+      "author": "Local Collection",
+      "previewUrl": "animal07.gif"
+    },
+    {
+      "name": "animal06.ild",
+      "description": "动物动画06",
+      "author": "Local Collection",
+      "previewUrl": "animal06.gif"
+    },
+    {
+      "name": "animal03.ild",
+      "description": "动物动画03",
+      "author": "Local Collection",
+      "previewUrl": "animal03.gif"
+    },
+    {
+      "name": "animal00.ild",
+      "description": "动物动画00",
+      "author": "Local Collection",
+      "previewUrl": "animal00.gif"
+    }
+  ]
+} 
