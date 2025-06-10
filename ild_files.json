@@ -1,36 +1,6 @@
 {
   "files": [
     {
-      "name": "count_10_1.ild",
-      "description": "数字计数动画",
-      "author": "Local Collection",
-      "previewUrl": "count_10_1.gif"
-    },
-    {
-      "name": "EAGLE2.ild",
-      "description": "鹰的动画",
-      "author": "Local Collection",
-      "previewUrl": "EAGLE2.gif"
-    },
-    {
-      "name": "d2.ild",
-      "description": "简单动画",
-      "author": "Local Collection",
-      "previewUrl": "d2.gif"
-    },
-    {
-      "name": "C2.ild",
-      "description": "字母C动画",
-      "author": "Local Collection",
-      "previewUrl": "C2.gif"
-    },
-    {
-      "name": "C1.ild",
-      "description": "字母C动画变体",
-      "author": "Local Collection",
-      "previewUrl": "C1.gif"
-    },
-    {
       "name": "worm.ild",
       "description": "蠕虫动画",
       "author": "Local Collection",
