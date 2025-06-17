@@ -103,85 +103,85 @@
       "previewUrl": "Aurora11.gif"
     },
     {
-      "name": "747-01.ild",
+      "name": "747.ild",
       "description": "飞机动画",
       "author": "Local Collection",
-      "previewUrl": "747-01.gif"
+      "previewUrl": "747.gif"
     },
     {
-      "name": "geoShowB26.ild",
+      "name": "geoShowB (26).ild",
       "description": "几何动画B26",
       "author": "Local Collection",
       "previewUrl": "geoShowB (26).gif"
     },
     {
-      "name": "geoShowB17.ild",
+      "name": "geoShowB (17).ild",
       "description": "几何动画B17",
       "author": "Local Collection",
       "previewUrl": "geoShowB (17).gif"
     },
     {
-      "name": "geoShowB23.ild",
+      "name": "geoShowB (23).ild",
       "description": "几何动画B23",
       "author": "Local Collection",
       "previewUrl": "geoShowB (23).gif"
     },
     {
-      "name": "geoShow65.ild",
+      "name": "geoShow (65).ild",
       "description": "几何动画65",
       "author": "Local Collection",
       "previewUrl": "geoShow (65).gif"
     },
     {
-      "name": "geoShow30.ild",
+      "name": "geoShow (30).ild",
       "description": "几何动画30",
       "author": "Local Collection",
       "previewUrl": "geoShow (30).gif"
     },
     {
-      "name": "geoShow29.ild",
+      "name": "geoShow (29).ild",
       "description": "几何动画29",
       "author": "Local Collection",
       "previewUrl": "geoShow (29).gif"
     },
     {
-      "name": "geoShow22.ild",
+      "name": "geoShow (22).ild",
       "description": "几何动画22",
       "author": "Local Collection",
       "previewUrl": "geoShow (22).gif"
     },
     {
-      "name": "geoShow23.ild",
+      "name": "geoShow (23).ild",
       "description": "几何动画23",
       "author": "Local Collection",
       "previewUrl": "geoShow (23).gif"
     },
     {
-      "name": "geoShow24.ild",
+      "name": "geoShow (24).ild",
       "description": "几何动画24",
       "author": "Local Collection",
       "previewUrl": "geoShow (24).gif"
     },
     {
-      "name": "geoShow11.ild",
+      "name": "geoShow (11).ild",
       "description": "几何动画11",
       "author": "Local Collection",
       "previewUrl": "geoShow (11).gif"
     },
     {
-      "name": "geoShow5.ild",
+      "name": "geoShow (5).ild",
       "description": "几何动画5",
       "author": "Local Collection",
       "previewUrl": "geoShow (5).gif"
     },
     {
-      "name": "geoShow2.ild",
+      "name": "geoShow (2).ild",
       "description": "几何动画2",
       "author": "Local Collection",
       "previewUrl": "geoShow (2).gif"
     },
     {
-      "name": "geoShow3.ild",
+      "name": "geoShow (3).ild",
       "description": "几何动画3",
       "author": "Local Collection",
       "previewUrl": "geoShow (3).gif"
@@ -235,34 +235,28 @@
       "previewUrl": "Cartoon01.gif"
     },
     {
-      "name": "car13.ild",
+      "name": "car (13).ild",
       "description": "汽车动画13",
       "author": "Local Collection",
       "previewUrl": "car (13).gif"
     },
     {
-      "name": "car10.ild",
+      "name": "car (10).ild",
       "description": "汽车动画10",
       "author": "Local Collection",
       "previewUrl": "car (10).gif"
     },
     {
-      "name": "car9.ild",
+      "name": "car (9).ild",
       "description": "汽车动画9",
       "author": "Local Collection",
       "previewUrl": "car (9).gif"
     },
     {
-      "name": "car6.ild",
+      "name": "car (6).ild",
       "description": "汽车动画6",
       "author": "Local Collection",
       "previewUrl": "car (6).gif"
-    },
-    {
-      "name": "car2.ild",
-      "description": "汽车动画2",
-      "author": "Local Collection",
-      "previewUrl": "car (2).gif"
     },
     {
       "name": "Aurora70.ild",
@@ -349,7 +343,7 @@
       "previewUrl": "FWAVES.gif"
     },
     {
-      "name": "FlugPyramiden.ild",
+      "name": "Flug durch Pyramiden.ild",
       "description": "金字塔飞行动画",
       "author": "Local Collection",
       "previewUrl": "Flug durch Pyramiden.gif"
@@ -385,7 +379,7 @@
       "previewUrl": "Aurora96.gif"
     },
     {
-      "name": "Horse.ild",
+      "name": "Horse.ILD",
       "description": "马动画",
       "author": "Local Collection",
       "previewUrl": "Horse.gif"
