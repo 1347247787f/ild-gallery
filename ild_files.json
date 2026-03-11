@@ -1,20 +1,20 @@
 {
   "files": [
     {
-      "name": "worm.ild",
-      "description": "蠕虫动画",
+      "name": "户外1.ild",
+      "description": "户外1",
       "author": "Local Collection",
       "previewUrl": "worm.gif"
     },
     {
-      "name": "donkey.ild",
-      "description": "驴子动画",
+      "name": "户外2.ild",
+      "description": "户外2",
       "author": "Local Collection",
       "previewUrl": "donkey.gif"
     },
     {
-      "name": "people01.ild",
-      "description": "人物动画1",
+      "name": "户外3.ild",
+      "description": "户外3",
       "author": "Local Collection",
       "previewUrl": "people01.gif"
     },
